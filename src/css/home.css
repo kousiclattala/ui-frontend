@@ -1,0 +1,64 @@
+.hero {
+  position: absolute;
+  height: 700px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+
+  background: #f5f8ff;
+}
+
+.box {
+  position: absolute;
+  width: 1052px;
+  height: 756px;
+  left: calc(50% - 1092px / 2 + 218.5px);
+  top: 112px;
+}
+
+.left_1 {
+  position: absolute;
+  width: 511px;
+  height: 318px;
+  left: 131px;
+  top: 182px;
+}
+
+.h1_1 {
+  position: absolute;
+  width: 511px;
+  height: 112px;
+  left: 0px;
+  top: 0px;
+
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  /* or 117% */
+
+  color: #000000;
+}
+
+.p_1 {
+  position: absolute;
+  width: 473px;
+  height: 96px;
+  left: 0px;
+  top: 131px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.01em;
+
+  color: #000000;
+}
+
+.left_button {
+  position: absolute;
+  top: 250px;
+}

@@ -1,0 +1,25 @@
+.nav-button {
+  left: 50px;
+  top: 9px;
+
+  padding: 10px 10px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.16em;
+
+  color: #000000;
+}
+
+.nav-heading {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing: 0.28em;
+
+  color: #000000;
+}

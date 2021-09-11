@@ -1,0 +1,340 @@
+.footer {
+  position: absolute;
+  height: 984px;
+  left: 0px;
+  right: 0px;
+  top: 4368px;
+
+  background: #f5f8ff;
+}
+
+.logo-footer {
+  position: absolute;
+  width: 132.59px;
+  height: 38px;
+  left: 80px;
+  top: 44px;
+}
+
+.logo-text {
+  position: absolute;
+  width: 82.52px;
+  height: 13.76px;
+  left: 70.07px;
+  top: 12.94px;
+  letter-spacing: 0.2em;
+}
+
+.social-icons {
+  position: absolute;
+  width: 197px;
+  height: 26px;
+  right: 85px;
+  top: 52px;
+}
+
+.ig {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  left: 0px;
+  top: 0px;
+}
+
+.fb {
+  position: absolute;
+  width: 26px;
+  height: 25.16px;
+  left: 57px;
+  top: 0px;
+}
+
+.tw {
+  position: absolute;
+  width: 26px;
+  height: 25.16px;
+  left: 114px;
+  top: 0px;
+}
+
+.sc {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  left: 171px;
+  top: 0px;
+}
+
+.link1 {
+  position: absolute;
+  width: 163px;
+  height: 216px;
+  left: 80px;
+  top: 143px;
+}
+
+.link2 {
+  position: absolute;
+  width: 163px;
+  height: 187px;
+  left: 160px;
+  top: 143px;
+}
+
+.link3 {
+  position: absolute;
+  width: 143.82px;
+  height: 139.41px;
+  left: 300px;
+  top: 143px;
+}
+
+.link4 {
+  position: absolute;
+  width: 143.82px;
+  height: 165px;
+  left: 440px;
+  top: 143px;
+}
+
+.h1 {
+  position: absolute;
+  width: 163px;
+  height: 29px;
+  left: 80px;
+  top: 143px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.h2 {
+  position: absolute;
+  width: 163px;
+  height: 29px;
+  left: 326px;
+  top: 143px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.h3 {
+  position: absolute;
+  width: 143.82px;
+  height: 25.59px;
+  left: 472px;
+  top: 143px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.h4 {
+  position: absolute;
+  width: 143.82px;
+  height: 25.59px;
+  left: 599px;
+  top: 143px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.t1 {
+  position: absolute;
+  width: 163px;
+  height: 29px;
+  left: 80px;
+  top: 185px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.t2 {
+  position: absolute;
+  width: 163px;
+  height: 29px;
+  left: 326px;
+  top: 185px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.t3 {
+  position: absolute;
+  width: 143.82px;
+  height: 25.59px;
+  left: 472px;
+  top: 180.06px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.t4 {
+  position: absolute;
+  width: 143.82px;
+  height: 25.59px;
+  left: 599px;
+  top: 180.06px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.t1-2 {
+  top: 214px;
+}
+
+.t1-3 {
+  top: 243px;
+}
+
+.t1-4 {
+  top: 272px;
+}
+
+.t1-5 {
+  top: 301px;
+}
+
+.t1-6 {
+  top: 330px;
+}
+
+.h2-1 {
+  position: absolute;
+  width: 163px;
+  height: 29px;
+  left: 80px;
+  top: 143px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.divider {
+  position: absolute;
+  height: 2px;
+  left: 0px;
+  right: 0px;
+  top: 558px;
+
+  opacity: 0.3;
+  border: 2px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 0px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.f-text {
+  position: absolute;
+  width: 1059px;
+  height: 29px;
+  left: 80px;
+  top: 615px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.terms {
+  position: absolute;
+  width: 60px;
+  height: 29px;
+  left: 958px;
+  top: 615px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #000000;
+}
+
+.policy {
+  position: absolute;
+  width: 125px;
+  height: 29px;
+  left: 1020px;
+  top: 615px;
+
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.1em;
+
+  color: #000000;
+}
