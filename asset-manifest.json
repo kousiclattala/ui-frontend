@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d246b38.chunk.css",
+    "main.js": "/static/js/main.93f5c6d9.chunk.js",
+    "main.js.map": "/static/js/main.93f5c6d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.af752a14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.af752a14.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.f36f58be.chunk.js": "/static/js/2.f36f58be.chunk.js",
+    "static/js/2.f36f58be.chunk.js.map": "/static/js/2.f36f58be.chunk.js.map",
+    "static/js/3.1f2e7e97.chunk.js": "/static/js/3.1f2e7e97.chunk.js",
+    "static/js/3.1f2e7e97.chunk.js.map": "/static/js/3.1f2e7e97.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4d246b38.chunk.css.map": "/static/css/main.4d246b38.chunk.css.map",
+    "static/js/2.f36f58be.chunk.js.LICENSE.txt": "/static/js/2.f36f58be.chunk.js.LICENSE.txt",
+    "static/media/box.b913f83e.svg": "/static/media/box.b913f83e.svg",
+    "static/media/fb.3e10c6c4.svg": "/static/media/fb.3e10c6c4.svg",
+    "static/media/ig.33be59af.svg": "/static/media/ig.33be59af.svg",
+    "static/media/logo.69fa2272.svg": "/static/media/logo.69fa2272.svg",
+    "static/media/plan-1-box-1.245e0db8.svg": "/static/media/plan-1-box-1.245e0db8.svg",
+    "static/media/plan-2-box-2.1ff55998.svg": "/static/media/plan-2-box-2.1ff55998.svg",
+    "static/media/sc.33bd6882.svg": "/static/media/sc.33bd6882.svg",
+    "static/media/social-img-1.61467826.svg": "/static/media/social-img-1.61467826.svg",
+    "static/media/social-img-2.1acfce7c.svg": "/static/media/social-img-2.1acfce7c.svg",
+    "static/media/social-img-3.40706368.svg": "/static/media/social-img-3.40706368.svg",
+    "static/media/social-img-4.375ebe9e.svg": "/static/media/social-img-4.375ebe9e.svg",
+    "static/media/tw.ac4ffec9.svg": "/static/media/tw.ac4ffec9.svg",
+    "static/media/underline.185a6f9d.svg": "/static/media/underline.185a6f9d.svg",
+    "static/media/work-1.f6a634d0.svg": "/static/media/work-1.f6a634d0.svg",
+    "static/media/work-2.f9384854.svg": "/static/media/work-2.f9384854.svg",
+    "static/media/work-3.8c52bebe.svg": "/static/media/work-3.8c52bebe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af752a14.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.f36f58be.chunk.js",
+    "static/css/main.4d246b38.chunk.css",
+    "static/js/main.93f5c6d9.chunk.js"
+  ]
+}
